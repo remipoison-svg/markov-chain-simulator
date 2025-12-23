@@ -1,0 +1,40 @@
+NOTICE
+======
+
+Markov Chain Simulator
+Copyright 2025 Rémi Poison
+
+This product includes software developed by Rémi Poison
+for educational and pedagogical purposes.
+
+----------------------------------------------------------------
+
+This product includes the following third-party components:
+
+Python
+Copyright © Python Software Foundation
+Licensed under the Python Software Foundation License (PSF)
+
+NumPy
+Copyright © NumPy Developers
+Licensed under the BSD 3-Clause License
+
+Matplotlib
+Copyright © Matplotlib Development Team
+Licensed under the Matplotlib License (BSD-style)
+
+Pillow
+Copyright © Pillow Contributors
+Licensed under the HPND License
+
+Tkinter
+Copyright © Python Software Foundation
+Licensed under the Python Software Foundation License (PSF)
+
+----------------------------------------------------------------
+
+All third-party licenses are compatible with the Apache License,
+Version 2.0.
+
+The full text of the Apache License, Version 2.0, is provided
+in the LICENSE file distributed with this project.
