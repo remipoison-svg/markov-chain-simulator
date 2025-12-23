@@ -42,7 +42,7 @@ Designed for **educational purposes** (high school & undergraduate mathematics).
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/markov-chain-simulator.git
+git clone https://github.com/remipoison-svg/markov-chain-simulator.git
 cd markov-chain-simulator
 pip install -r requirements.txt
 ```
